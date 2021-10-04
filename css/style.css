@@ -1,0 +1,128 @@
+@font-face{
+	font-family: "Futura PT";
+	font-style:normal;
+}
+
+body{
+    margin:0;
+    font-family: "Futura PT";
+    font-size: 36px;
+    line-height: 46px;
+    color:#FFFFFF;
+    background-color: #202020;
+    height: 100vh;
+    width:100%;
+}
+*,
+*:before,
+*:after {
+	box-sizing: border-box;
+}
+h1,h2,h3,h4,h5,h6{
+	margin:0;
+}
+.text__1{
+  position: absolute;
+  text-align: center;
+  width: 1128px;
+  height: 235px;
+  left: 278px;
+  top: 1021px;
+}
+.pic__2{
+  position: absolute;
+  width: 1079px;
+  height: 1137px;
+  left: 553px;
+  top: 1236px;
+}
+
+.spicok{
+  position: absolute;
+  width: 904px;
+  height: 791px;
+  font-weight: 450;
+  font-size: 40px;
+  line-height: 71px;
+  top:1400px;
+  left:102px;
+}
+a.button8 {
+  display: inline-block;
+  color: white;
+  font-weight: 700;
+  text-decoration: none;
+  user-select: none;
+  padding: .5em 2em;
+  outline: none;
+  border: 2px solid;
+  border-radius: 1px;
+  transition: 0.2s;
+} 
+a.button8:hover { background: rgba(255,255,255,.2); }
+a.button8:active { background: white; }
+.knopka{
+  position: absolute;
+  top:2370px;
+  left:623px;
+}
+.text__3{
+  position: absolute;
+  width: 1257px;
+  height: 180px;
+  left: 171px;
+  top: 128px;
+  text-align: center;
+}
+.pic__3{
+  position: absolute;
+  width: 1138px;
+  height: 708px;
+  left: 256px;
+  top: 437px;
+}
+table {
+text-align: left;
+border-collapse: separate;
+border-spacing: 5px;
+background: #ffffff;
+color: #fffff;
+
+}
+th {
+font-size: 18px;
+padding: 10px;
+}
+td {
+background: #202020;
+padding: 10px;
+}
+.tb{
+  position: relative;
+  top:1250px;
+  left:450px;
+  padding-bottom:-120px;
+}
+a.button7 {
+  display: inline-block;
+  color: white;
+  font-weight: 700;
+  text-decoration: none;
+  user-select: none;
+  padding: .5em 2em;
+  outline: none;
+  border: 2px solid;
+  border-radius: 1px;
+  transition: 0.2s;
+} 
+a.button7:hover { background: rgba(255,255,255,.2); }
+a.button7:active { background: white; }
+
+.knopka__2{
+  position: relative;
+  top:70px;
+  left:253px;
+  bottom:255px;
+  padding-bottom: 55px;
+
+}
